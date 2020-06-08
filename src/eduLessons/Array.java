@@ -3,6 +3,9 @@ package eduLessons;
 public class Array {
 
 	public static void main(String[] args) {
+		
+		
+	//making some changes on code.
 		//int[] arrayOfInteger=new int[]{5,6,7};
 		int[] array= {2,4,6,8,10};
 		int[][] multidimentionalArray= {{1,2},{3,4},{5,6}};
@@ -11,6 +14,7 @@ public class Array {
 		System.out.println(array[2]);
 		System.out.println(array[3]);
 		System.out.println("size of multidimentional array" +multidimentionalArray[1][1]);
+		System.out.println("size of multidimentional array" +multidimentionalArray[1][2]);
         
 		
 		
